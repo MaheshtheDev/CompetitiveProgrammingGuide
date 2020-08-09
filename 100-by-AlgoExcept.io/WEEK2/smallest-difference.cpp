@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+// Complexity O(nlogn + mlogm) || O(1)
 int main()
 {
     int a[6]={-1,5,10,20,28,3},b[5]={26,134,135,15,17},flag=1;
@@ -16,7 +17,7 @@ int main()
             if(b[i]<b[i-1]) { swap(b[i],b[i-1]); flag=1;}
         }
     }
-    // for(int i=0;i<6;i++) cout<<a[i]<<" ";
+   
     int diff=INT_MAX,ai=0,bi=0,si=0,sj=0;
     while(ai<6 and bi<5){
         int curr=INT_MAX,x=a[ai],y=b[bi];
