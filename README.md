@@ -1,2 +1,4 @@
 # Comp_Programming_Guide
-Competitive Programming Preparation Guide
+
+My Preparation Track of My Competitive Programming
+
