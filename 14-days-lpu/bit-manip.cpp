@@ -6,7 +6,11 @@ int main()
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
 #endif
-    int n, k;
+    // int n, k;
+    // cin>>n; int a[n];
+    // for(int i=0;i<n;i++) cin>>a[i];
+    // cout<<pow(2,n-1);
+
     // cin>>n>>k;
     // if(n>>k & 1) cout<<"Set";
     // else cout<<"Not Set";
@@ -55,5 +59,14 @@ int main()
 //     cin>>n;
 //     cout<< -~n;
 
+    // for(int i=65;i<65+26;i++){
+    //     bitset<8> btC(i),bts(i+32);
+    //     cout<<btC<<" "<<bts<<"\n";
+    // }
+
+    // converting lower case to uppercase of to lower case
+    // char ch = 'a';
+    // ch^=' ';
+    // cout<<ch;
 
 }
