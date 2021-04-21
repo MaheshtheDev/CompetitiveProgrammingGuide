@@ -19,7 +19,7 @@ long long int inv(int a){
 }
 
 void cal_fact(){
-    // TODO check from Github Repo
+    // check from Github Repo
 }
 
 // nCr % prime
