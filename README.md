@@ -4,7 +4,7 @@ My Preparation Track of My Competitive Programming
 
 Following Concepts needs to be practiced in the Python
 
-- [ ] Arrays
+- [ ] Arrays ( in progress )
 - [ ] Linked Lists
 - [ ] Stack
 - [ ] Queue
